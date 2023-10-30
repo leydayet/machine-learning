@@ -32,11 +32,6 @@ Si todo esta bien, deberías de obtener una respuesta así
 {"response": [1]}
 ```
 
-#### Equipo
-
-* Juan Perez Nombrefalso
-* Ricardo Alanís Tamez
-
 #### Contribuir
 
 Hacer fork del repositorio y mandar pull request con los cambios propuestos
